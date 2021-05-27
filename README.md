@@ -1,2 +1,2 @@
-#0x02. Git
+# 0x02. Git
 This is ALX git pre-course
